@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">A passionate Mern developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.springboard.com/blog/wp-content/uploads/2022/06/what-does-a-coder-do-2022-career-guide-1.jpg">
+<h1 align="center">Hi there👋, I'm Abhishek</h1>
+<h3 align="center">A passionate about web developer</h3>
+<img align="center" alt="coding" width="400" src="https://www.springboard.com/blog/wp-content/uploads/2022/06/what-does-a-coder-do-2022-career-guide-1.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi111456&label=Profile%20views&color=0e75b6&style=flat" alt="abhi111456" /> </p>
 
