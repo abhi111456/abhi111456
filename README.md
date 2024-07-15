@@ -51,10 +51,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/abhishek" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/abhishek-kumar-833b43233/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://twitter.com/abhishek" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
   </a>
 </p>
