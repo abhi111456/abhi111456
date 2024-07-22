@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Abhishek</h1>
-<h3 align="center">A passionate web developer</h3>
+<h1 align="center">Hello 👋, I'm Abhishek Kumar</h1>
+<h3 align="center">A Passionate Web Developer with a Focus on Scalable Solutions</h3>
 
 <div align="center">
   <img src="https://www.springboard.com/blog/wp-content/uploads/2022/06/what-does-a-coder-do-2022-career-guide-1.jpg" width="700px" height="300px" alt="coding">
@@ -49,12 +49,17 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi111456" alt="GitHub Streak" width="45%"/>
 </div>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Let's Connect:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishek-kumar-833b43233/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="#" target="_blank" rel="noreferrer">
+  <a href="https://twitter.com/yourusername" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
   </a>
+</p>
+
+<h3 align="center">About Me:</h3>
+<p align="center">
+  I'm Abhishek, a dedicated web developer with a strong focus on building scalable and high-performance applications. I work with modern technologies like React.js, Python, and C++ to craft effective solutions that are both user-friendly and innovative. Explore my repositories to see my latest projects and contributions!
 </p>
